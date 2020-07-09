@@ -6,3 +6,5 @@ otro cambio
 otro mas 
 
 otro cambios
+
+este es otro otro jajaja voy a probar que pasar si elimino solo en disco y no en cache 
