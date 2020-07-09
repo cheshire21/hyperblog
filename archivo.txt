@@ -1,1 +1,4 @@
 hola esta es la linea correspondiente para la version 1
+
+Esta es otra linea del archiv para la version 2 vere como funciona el comando git reset HEAD 
+
