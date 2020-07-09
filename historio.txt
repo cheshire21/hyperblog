@@ -6,3 +6,5 @@ nadie lo sabe solo y mis conocidos
 insertamos cambios al archivo 
 
 manana nos ocularemos de esto este cambio 
+
+esta es una linea despues de la muerte o borrado de otro.txt
