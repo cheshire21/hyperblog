@@ -8,3 +8,6 @@ insertamos cambios al archivo
 manana nos ocularemos de esto este cambio 
 
 esta es una linea despues de la muerte o borrado de otro.txt
+ 
+
+este es otro commit pero con el otro txt eliminado solo de la statcking
