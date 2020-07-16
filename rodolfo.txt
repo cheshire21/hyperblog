@@ -1,0 +1,5 @@
+lo primero que subire a github :v 
+
+para sacar la version mas reciente en el repositorio en internet
+  git pull origin master
+
