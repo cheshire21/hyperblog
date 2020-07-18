@@ -3,7 +3,7 @@
 >This is a readme to learn about the sintaxis of md file 
 
 > - This sintaxis is like a html sintaxis 
-> - Maybe I learned this sintaxis thank of colaboratory 
+> - Maybe I learned this sintaxis thank of colaboratory google
 > - I want to learn more 
 ## 我喜欢是programer
 * 我试试写一些汉字
